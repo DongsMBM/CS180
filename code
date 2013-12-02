@@ -1,7 +1,10 @@
 public class hi {
   
-  public static void main(String[] args) {
-    System.out.println("hi, this is our presentation ");
+  public static void main(String[] args) 
+  {
+    System.out.println("Hi, this is our presentation ");
+    System.out.println("");
+    System.out.println("Hope you will enjoy it");
     
-    }
+  }
   }
